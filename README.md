@@ -1,5 +1,6 @@
 # happy-places-app
-**Requirements:** Familiar with Android Studio and its features and components.
+# Requirements
+Familiar with Android Studio and its features and components.
 
 **!Under _Gradle Scripts_ in build.gradle(Module:app) add the extra dependencies which are present in the file here! Otherwise, many of the third party integrations won't work.**
 
