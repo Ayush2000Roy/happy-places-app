@@ -1,7 +1,8 @@
 # happy-places-app
+Sample app that displays your favorite places.
 # Requirements
 Familiar with Android Studio and its features and components.
-
+# Steps
 **!Under _Gradle Scripts_ in build.gradle(Module:app) add the extra dependencies which are present in the file here! Otherwise, many of the third party integrations won't work.**
 
 **Step 1:** Under _activities_ the MainActivity file is automatically created. Copy the code from _MainActivity.kt_ from here and paste it in your file.
