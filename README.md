@@ -7,6 +7,8 @@
 
 **Step 2:** Under _activities_, create three more files namely, AddHappyPlaceActivity, AddHappyPlaceDetailActivity and MapActivity. Copy the codes from the files with the same name from here.
 
-**Step 3:** Under _com.example.yourProjectName_ create four more folders, adapters, database, models and utils. In the adapters folder create a HappyPlacesAdapter file, under database create DatabaseHandler file, under models create HappyPlaceModel file and under utils create MapFragments file.
+**Step 3:** Under _com.example.yourProjectName_ create four more folders, adapters, database, models and utils and one file namely, MapFragments. In the adapters folder create a HappyPlacesAdapter file, under database create DatabaseHandler file, under models create HappyPlaceModel file and under utils create GetAddressFromLatLng, SwipeTodeleteCallback and SwipeToEditCallback files.
 
 **Step 4:** Copy the following codes from the files with name name from here and paste it in your files.
+
+**These are the actual main codes for the app. You can stylisize your app according to your needs using the XML files.** 
