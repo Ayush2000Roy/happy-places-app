@@ -1,6 +1,8 @@
 # happy-places-app
 **Requirements:** Familiar with Android Studio and its features and components.
 
+**!Under _Gradle Scripts_ in build.gradle(Module:app) add the extra dependencies which are present in the file here! Otherwise, many of the third party integrations won't work.**
+
 **Step 1:** Under _activities_ the MainActivity file is automatically created. Copy the code from _MainActivity.kt_ from here and paste it in your file.
 
 **Step 2:** Under _activities_, create three more files namely, AddHappyPlaceActivity, AddHappyPlaceDetailActivity and MapActivity. Copy the codes from the files with the same name from here.
