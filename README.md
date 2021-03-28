@@ -4,10 +4,11 @@ Sample app that displays your favorite places.
 1. Android SDK
 2. Android Build Tools
 3. Android Support Repository
+4. Google Maps Platform API (Places SDK for Android)
 # Getting Started
 **This sample uses Gradle buid system in Android Studio.**
 
-Follow through the folders above to get an idea about where to use each code.
+Follow through the folders above to get an idea about where to use each code. Detailed guide given below.
 
 **Step 1:** Under _activities_ the MainActivity file is automatically created. Copy the code from _MainActivity.kt_ from here and paste it in your file.
 
@@ -29,3 +30,7 @@ Under _layout_ in the _res_ folder, add the following files: activity_add_happy_
 Under _values_ in the _res_ folder, add the following files: colors, dimens, strings, styles and ic_launcher_background. **In this same folder, you also need to add the "google_maps_api.xml" file, which will be provided by Google Maps API platform. Also in the strings file, you will need to add you API KEY which will be provided by Maps API again.**
 # Image
 Images used are license free.
+# Google Maps Platform API
+https://developers.google.com/maps/apis-by-platform
+
+Go to the above link and select **Places SDK for Android**. Go through _Using API Keys_ tab and follow the instructions for setup. Use the key generated in your app in the _strings.xml_ file. 
