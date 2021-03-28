@@ -1,9 +1,13 @@
-# happy-places-app
+# Happy Places App
 Sample app that displays your favorite places.
-# Requirements
-Familiar with Android Studio and its features and components.
-# Steps
-**!Under _Gradle Scripts_ in build.gradle(Module:app) add the extra dependencies which are present in the file here! Otherwise, many of the third party integrations won't work.**
+# Pre-requisites
+1. Android SDK
+2. Android Build Tools
+3. Android Support Repository
+# Getting Started
+**This sample uses Gradle buid system in Android Studio.**
+
+Follow through the folders above to get an idea about where to use each code.
 
 **Step 1:** Under _activities_ the MainActivity file is automatically created. Copy the code from _MainActivity.kt_ from here and paste it in your file.
 
@@ -23,3 +27,5 @@ Under _app_, in _res_ folder, in _drawable_ folder, add the followinf files:
 Under _layout_ in the _res_ folder, add the following files: activity_add_happy_place, activity_happy_place_detail, activity_main, activity_map, fragment_maps and item_happy_place.
 
 Under _values_ in the _res_ folder, add the following files: colors, dimens, strings, styles and ic_launcher_background. **In this same folder, you also need to add the "google_maps_api.xml" file, which will be provided by Google Maps API platform. Also in the strings file, you will need to add you API KEY which will be provided by Maps API again.**
+# Image
+Images used are license free.
